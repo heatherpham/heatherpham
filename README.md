@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Heather ✨
 
 <!--
 **heatherpham/heatherpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**I'm a data analyst and digital creator. And I like to create things.** Whether it's a data visualization, a video, calligraphy art or a homecooked meal, I am super passionate about creating something out of nothing. 
+
+- 😄 **Pronouns:** she/her
+- 👩🏻‍💻 **Programming languages:** R/SQL/LaTeX
+- 🌱 **I’m currently learning about** statistical learning methods, people analytics, and text analysis
+- 💻 **Check out my website** [www.heatherpham.com](https://www.heatherpham.com)
+- 📫 **Connect with me** [LinkedIn](https://www.linkedin.com/in/heatherdpham/) | [Instagram](https://www.instagram.com/datawithheather/)
