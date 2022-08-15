@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 **Programming languages:** R/SQL/LaTeX
 - 🌱 **I’m currently learning about** statistical learning methods, people analytics, and text analysis
 - 💻 **Check out my website:** [www.heatherpham.com](https://www.heatherpham.com)
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/heatherdpham/) | [Instagram](https://www.instagram.com/datawithheather/)
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/heatherdpham/) | [Instagram](https://www.instagram.com/datawithheather/) | [Twitter](https://twitter.com/datawithheather)
