@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - 😄 **Pronouns:** she/her
 - 👩🏻‍💻 **Programming languages:** R/SQL
-- 🌱 **I’m currently learning about** statistical learning methods, people analytics, and text analysis
+- 🌱 **I’m currently learning about** statistical learning methods, people analytics, and text analytics
 - 💻 **Check out my website:** [www.heatherpham.com](https://www.heatherpham.com)
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/heatherdpham/) | [Instagram](https://www.instagram.com/datawithheather/) | [Twitter](https://twitter.com/datawithheather)
